@@ -1,6 +1,6 @@
 ### DuyNghia CV Online
 
-View Live Preview -
+View Live Preview - https://guileless-marigold-986769.netlify.app/
 
 ## Credit
 
